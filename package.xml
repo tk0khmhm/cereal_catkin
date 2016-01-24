@@ -1,0 +1,21 @@
+<package>
+  <name>cereal_catkin</name>
+  <version>0.1.0</version> <!--@2015/3/8-->
+  <description>C++ serial communication class for ROS catkin</description>
+
+  <maintainer email="ee13105@meiji.ac.jp">Tomohiro KONUMA</maintainer>
+  <author>Gonçalo Cabrita and Pedro Sousa</author>
+
+  <license>BSD</license>
+
+  <url></url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+
+  <run_depend>roscpp</run_depend>
+
+</package>
+
+
